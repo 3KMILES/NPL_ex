@@ -4,4 +4,4 @@
 
 ## Disclaimer
 
-The steam.csv file is not mine! It is from Kaggle with link: https://www.kaggle.com/datasets/fronkongames/steam-games-dataset
+The steam.csv file is not mine! It is from Kaggle with link: https://www.kaggle.com/datasets/nikdavis/steam-store-games
